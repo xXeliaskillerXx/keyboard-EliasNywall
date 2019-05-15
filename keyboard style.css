@@ -1,0 +1,164 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  background-color: black;
+}
+.rad11{
+  width: 70px;
+  height: 5px;
+  border: 2px solid white;
+  float: left;
+  text-align: center;
+  padding: 10px;
+  margin: 1px;
+  background-color: black;
+  color: white;
+}
+.rad12{
+  width: 80px;
+  height: 30px;
+  border: 2px solid white;
+  float: left;
+  text-align: center;
+  padding: 10px;
+  margin: 2px;
+  background-color: black;
+  color: white;
+}
+.rad13{
+  width: 80px;
+  height: 30px;
+  border: 2px solid white;
+  float: left;
+  text-align: center;
+  padding: 10px;
+  margin: 2px;
+  background-color: black;
+  color: white;
+}
+.rad14{
+  width: 80px;
+  height: 30px;
+  border: 2px solid white;
+  float: left;
+  text-align: center;
+  padding: 10px;
+  margin: 2px;
+  background-color: black;
+  color: white;
+}
+.rad15{
+  width: 80px;
+  height: 30px;
+  border: 2px solid white;
+  float: left;
+  text-align: center;
+  padding: 10px;
+  margin: 2px;
+  background-color: black;
+  color: white;
+}
+.rad16{
+  width: 80px;
+  height: 30px;
+  border: 2px solid white;
+  float: left;
+  text-align: center;
+  padding: 10px;
+  margin: 2px;
+  background-color: black;
+  color: white;
+}
+.tab{
+  width: 104px;
+  height: 30px;
+  border: 2px solid white;
+  float: left;
+  text-align: center;
+  padding: 10px;
+  margin: 2px;
+  background-color: black;
+  color: white;
+}
+.capslock{
+  width: 104px;
+  height: 30px;
+  border: 2px solid white;
+  float: left;
+  text-align: center;
+  padding: 10px;
+  margin: 2px;
+  background-color: black;
+  color: white;
+}
+.backspace{
+  width: 104px;
+  height: 30px;
+  border: 2px solid white;
+  float: left;
+  text-align: center;
+  padding: 10px;
+  margin: 2px;
+  background-color: black;
+  color: white;
+}
+.space{
+  width: 536px;
+  height: 30px;
+  border: 2px solid white;
+  float: left;
+  text-align: center;
+  padding: 10px;
+  margin: 2px;
+  background-color: black;
+  color: white;
+}
+.shift{
+  width: 104px;
+  height: 30px;
+  border: 2px solid white;
+  float: left;
+  text-align: center;
+  padding: 10px;
+  margin: 2px;
+  background-color: black;
+  color: white;
+}
+.rightshift{
+  width: 188px;
+  height: 30px;
+  border: 2px solid white;
+  float: left;
+  text-align: center;
+  padding: 10px;
+  margin: 2px;
+  background-color: black;
+  color: white;
+}
+.enter{
+position: absolute;
+width: 80px;
+height: 86px;
+border: 2px solid white;
+top:90px;
+left: 1430px;
+text-align: center;
+padding: 10px;
+margin: 2px;
+background-color: black;
+color: white;
+
+}
+.rad7{
+  width: 80px;
+  height: 30px;
+  border: 2px solid white;
+  float: right;
+  text-align: center;
+  padding: 10px;
+  margin: 2px;
+  background-color: black;
+  color: white;
+}
