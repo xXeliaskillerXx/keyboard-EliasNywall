@@ -7,15 +7,16 @@
     <title> keyboard</title>
     <script>
 
-    document.addEventListener('keydown', function(event) {
-        console.log(event.code);
-          document.getElementById(event.code).style.backgroundColor="purple";
+document.addEventListener("keydown", myFunctionS);
+document.addEventListener("keyup", myFunctions);
+function myFunctionS(){
+      document.getElementById(event.code).style.backgroundColor="purple";
+}
+function myFunctions(){
+  document.getElementById(event.code).style.backgroundColor="black";
+}
 
-  setTimeout(function () {
-  document.getElementById(event.code).style.backgroundColor = "black";
-}, 100);
-})
-    </script>
+</script>
   </head>
   <body>
 <div id="rad1">
